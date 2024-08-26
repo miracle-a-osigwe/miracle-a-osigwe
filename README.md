@@ -5,22 +5,24 @@ I am a consistent problem-solver, always looking for creative ways to tackle dat
 
 - I’m currently working on
 
-    1. Exam application for a school (using python kivy package).
-    2. AI assistant for a school (integrating chatbot with social media functionality).
-    3. A LMS web solution for a school (Loaded with full functionality)
-    4. School with EASE (an ongoing project for a web platform for educational purposes).
-
+    1. Inventory application using PyQt5 framework.
+    2. Automated scraping tool using PyQt5 framework.
+    3. Exam application for a school (using python kivy package).
+    4. AI assistant for a school (integrating chatbot with social media functionality).
+    
 - I’m currently learning
     1. React integration with python (django)
     2. Cybersecurity
-    3. 
+    
 - I’m looking to collaborate on
     1. AI projects
     2. Web technologies
     3. LLM finetuning
     4. Web automation
+       
 - I’m looking for help with
-    1. Finishing up the projects i'm working on, as time is very scarce these days.
+    1. Getting more projects, as the current ones are personal projects.
+       
 - Ask me about
     * Anything related to
         1. **Tech**,
