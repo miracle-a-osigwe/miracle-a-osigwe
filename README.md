@@ -8,7 +8,6 @@ I am a consistent problem-solver, always looking for creative ways to tackle dat
     1. Inventory application using PyQt5 framework.
     2. Automated scraping tool using PyQt5 framework.
     3. Exam application for a school (using python kivy package).
-    4. AI assistant for a school (integrating chatbot with social media functionality).
     
 - I’m currently learning
     1. React integration with python (django)
@@ -19,9 +18,10 @@ I am a consistent problem-solver, always looking for creative ways to tackle dat
     2. Web technologies
     3. LLM finetuning
     4. Web automation
+    5. Web scraping
        
 - I’m looking for help with
-    1. Getting more projects, as the current ones are personal projects.
+    1. More collaborations for bigger projects
        
 - Ask me about
     * Anything related to
