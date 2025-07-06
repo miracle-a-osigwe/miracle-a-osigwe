@@ -1,6 +1,6 @@
 # ABOUT ME
 
-I am a seasoned Python developer passionate about transforming ideas into scalable, data-driven solutions. My work leverages Python’s rich ecosystem particularly **Django**, **FastAPI**, **Flask**, **PyQt5**, **Kivy**, and **Selenium**, to build efficient backend systems, cross-platform applications, automation pipelines, and real-time data services.
+I am a seasoned Software engineer passionate about transforming ideas into scalable, data-driven solutions. My work leverages Python’s rich ecosystem particularly **Django**, **FastAPI**, **Flask**, **PyQt5**, **Kivy**, and **Selenium**, to build efficient backend systems, cross-platform applications, automation pipelines, and real-time data services.
 
 I specialize in:
 - Designing RESTful APIs and WebSocket services for financial and academic domains.
