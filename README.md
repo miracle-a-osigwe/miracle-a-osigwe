@@ -74,6 +74,3 @@ I’m open to **freelance projects, collaborations, and full-time opportunities*
 
 ## 🎉 Fun Fact
 **"Live each day with the perspective of eternity, as we all draw closer to our ultimate journey."**
-
-## 🎉 Fun Fact:
-**"Live each day with the perspective of eternity, as we all draw closer to our ultimate journey."**
